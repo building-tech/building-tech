@@ -1,5 +1,8 @@
 ## About Me
-- Full stack JavaScript software developer, launching MVPs fast
+- Full stack JavaScript software developer
+  - Frontend: HTML, CSS, SCSS, Tailwind, Vue, React, Angular
+  - Backend: ExpressJS, Cloudflare Workers
+  - Database: MongoDB, SQL, SQLite
 - Owner of Crack Shape, an IT services brand since 2022
   - Suspended under futher notice
 
